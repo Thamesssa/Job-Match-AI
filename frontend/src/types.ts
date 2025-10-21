@@ -1,0 +1,1 @@
+export type { Job, User, Notification, ResumeTip } from './lib/data/mockData';
